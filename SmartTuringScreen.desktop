@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Smart Turing Screen
+Exec=python3 /usr/share/turing-smart-screen/configure.py
+Type=Application
+Terminal=false
+Icon=turing-smart-screen.svg
+Categories=Utility;
